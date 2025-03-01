@@ -18,7 +18,7 @@ const Hero = () => {
             cursor={true}
           />
         </h1>
-        <p>With a passion for creating modern web applications for commercial businesses using cutting-edge technologies.</p>
+        Always learning, always building. No nonsense, just results... most of the time.
       </div>
       <div className="hero-right">
         
