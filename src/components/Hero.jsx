@@ -18,7 +18,7 @@ const Hero = () => {
             cursor={true}
           />
         </h1>
-        Always learning, always building. No nonsense, just results... most of the time.
+        <p> Always learning, always building. No nonsense, just results... most of the time.   </p>
       </div>
       <div className="hero-right">
         
